@@ -1,5 +1,5 @@
 # math_of_machine_learning
-This is the code for "Mathematcs of Machine Learning" by Siraj Raval on Youtube 
+This is the code for "Mathematics of Machine Learning" by Siraj Raval on Youtube 
 
 
 ## Coding Challenge - Due date, March 23, 2018 
